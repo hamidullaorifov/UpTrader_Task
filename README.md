@@ -33,11 +33,11 @@ These instructions will help you set up and run the project on your local machin
 
 4. Activate the virtual environment:
 
-On Windows
+- On Windows
     ```bash
     venv\Scripts\activate
     ```
-On macOS and Linux
+- On macOS and Linux
     ```bash
     source venv/bin/activate
     ```
