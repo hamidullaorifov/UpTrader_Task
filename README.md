@@ -55,4 +55,23 @@ These instructions will help you set up and run the project on your local machin
     ```
 8. Open a web browser and go to http://localhost:8000 to access your Django application.
 
+## Usage
+1. Create a superuser using this command
+
+    ```bash
+    python manage.py createsuperuser
+    ```
+2. Navigate to admin page - http://localhost:8000/admin
+
+3. Create menu items and return back to home page
+
+## Configuration
+If you are going to test
+- Open `settings.py` file and change DEBUG to True and set SECRET_KEY
+or 
+- Create .env file and set environment variables
+
+
+
+
 
